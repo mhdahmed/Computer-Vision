@@ -1,2 +1,2 @@
-# Computer-Vision - ECSE-415
-Computer Vision - Course Work for ECSE 415 
+# Computer Vision - ECSE-415
+Course Work for ECSE 415 
